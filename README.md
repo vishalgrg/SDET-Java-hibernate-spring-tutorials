@@ -29,7 +29,8 @@ annotation.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
-Project Name : Huawei – Application team-VK : Java Assessment Set 2
+------------------------------------Java Assessment Set 2 ---------------------------------------------------------------------------
+
 1. Write a program to find the given number is Armstrong number or not?
 2. Write a program to convert binary to decimal number.
 3. Write a program to check the given number is binary number or not?
