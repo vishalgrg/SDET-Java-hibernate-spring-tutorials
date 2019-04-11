@@ -2,7 +2,7 @@
 This repo contains all basic core java, Hibernate, Spring tutorials for beginners  
 
 
------------------------ Java Assessment Set 1 ------------------------
+----------------------- Java Assessment Set 2 ------------------------
 1. How to reverse Singly Linked List?
 2. Find out duplicate number between 1 to N numbers.
 3. Find out middle index where sum of both ends are equal.
@@ -29,7 +29,7 @@ annotation.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
-------------------------------------Java Assessment Set 2 ---------------------------------------------------------------------------
+------------------------------------Java Assessment Set 1 ---------------------------------------------------------------------------
 
 1. Write a program to find the given number is Armstrong number or not?
 2. Write a program to convert binary to decimal number.
@@ -56,3 +56,5 @@ annotation.
 23. How to insert an image into database table? or Write an example for inserting BLOB into table.
 24. How to read an image from database table? or Write an example for reading BLOB from table.
 25. What is DatabaseMetaData? Write an example code.
+
+set1-gitcode  https://github.com/vishalgrg/SDET-Java-hibernate-spring-tutorials-set2.git
